@@ -2,6 +2,8 @@
 # Estudo sobre Pyspark - Engenharia de dados
 ## Configuração do ambiente no Google Colab
 
+Acessing Google Colab at: https://colab.research.google.com
+
 ## Install Spark
 !apt-get update
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null
